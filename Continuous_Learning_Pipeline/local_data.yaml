@@ -1,0 +1,14 @@
+train: C:/Users/Malith Kanishka/Documents/Projects/Smart_Tray_System/Continuous_Learning_Pipeline/dataset/train/images
+val: C:/Users/Malith Kanishka/Documents/Projects/Smart_Tray_System/Continuous_Learning_Pipeline/dataset/valid/images
+test: /content/drive/MyDrive/Annotated Dataset/test/images
+nc: 9
+names:
+- Chicken Bun
+- Chicken Cutlet
+- Chicken Pastry
+- Chicken Rolls
+- Chicken Rotti
+- Iced Coffee
+- Milk Rice
+- Pizza - Cheese Lovers
+- Kokis

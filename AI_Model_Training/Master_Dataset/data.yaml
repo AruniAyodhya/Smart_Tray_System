@@ -1,0 +1,14 @@
+train: c:/Users/Malith Kanishka/Documents/Projects/Smart_Tray_System/AI_Model_Training/Master_Dataset/train/images
+val: c:/Users/Malith Kanishka/Documents/Projects/Smart_Tray_System/AI_Model_Training/Master_Dataset/valid/images
+test: c:/Users/Malith Kanishka/Documents/Projects/Smart_Tray_System/AI_Model_Training/Master_Dataset/test/images
+nc: 9
+names:
+- Chicken Bun
+- Chicken Cutlet
+- Chicken Pastry
+- Chicken Rolls
+- Chicken Rotti
+- Iced Coffee
+- Milk Rice
+- Pizza - Cheese Lovers
+- Kokis
